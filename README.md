@@ -2,13 +2,19 @@
 
 此材质包是为OreUIForEveryone做的补充，适用于1.21.1版本
 
+[OFE仓库](https://github.com/ReConstruction-127/OreUI-For-Everyone-1.20.1)
+
+需要放在OFE之上
+
+可能在后续合并进主仓库
+
 目前已完成
 
 - Curios修正
 - Just Dire Things
 - JDTE
 - Mek修正
-- 莱特栏恶意
+- 莱特兰恶意
 - 莱特兰标签页
 
 正在制作
