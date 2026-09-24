@@ -1,7 +1,7 @@
 .PHONY: build assembly makePkg clean help
 
-PROJECT_NAME := OreUI-For-Everyone-forked
-VERSION := 3.0
+PROJECT_NAME := OreUI-For-Everyone-ext
+VERSION := 1.0
 CACHE_DIR := .cache
 BUILD_DIR := ./build
 ASSETS_DIR := ./assets
