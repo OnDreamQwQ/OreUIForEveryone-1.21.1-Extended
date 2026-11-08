@@ -6,6 +6,8 @@
 
 需要放在OFE之上，并且请使用1.21.1版OFE 或者使用fork版OFE，fork版会同步此仓库
 
+关系：OreUIForEveryone（1.20.1）->OFEPatch（1.21.1）建议搭配OFEExt OFE&OFEExt->OFEFork（包含OFE与Ext，更新较慢）
+
 ~~可能在后续合并进主仓库~~
 
 如有1.21.1模组（界面材质不同于1.20.1，或是只有1.21.1版）需要OreUI，可向此仓库提交issues，并且请不要向OFE仓库提交issues！
